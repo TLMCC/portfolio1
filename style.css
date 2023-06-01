@@ -1,0 +1,27 @@
+.b{
+    display: flex;
+    justify-content: center;
+}
+.font{
+    font-family: sans-serif;
+    
+}
+.skill{
+    margin-top: 100px;
+}
+.con{
+    display: flex;
+    justify-content: center;
+
+}
+.foot{
+    background-color: #51e2f5;
+    
+    padding: 10px;
+    padding-top: 0%;
+}
+.background{
+    background-image: url(./background.webp);
+    padding-bottom: 50px;
+    margin-bottom: 0%;
+}
